@@ -57,4 +57,4 @@
 ## Collection Postman
 https://www.getpostman.com/collections/ac4a49113c4024e47d4f
 
-##### Projeto baseado no Tutorial: https://www.youtube.com/watch?v=D4frmIHAxEY;
+##### Projeto baseado: https://www.youtube.com/watch?v=D4frmIHAxEY;
