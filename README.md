@@ -6,7 +6,7 @@
 - Dar mais um passo em direção à preparação para o mercado.
 ## Visão geral do sistema
 
- Construir um pequeno sistema (API REST) de usuários e departamentos, com os seguintes casos de uso:
+ Construir um pequeno sistema (API REST), com java Spring Boot e Banco de Dados H2, de usuários e departamentos, com os seguintes casos de uso:
 
 - Buscar todos usuários
 - Buscar um usuário pelo seu id
